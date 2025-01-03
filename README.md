@@ -3,7 +3,7 @@
 ## Powered By ChatGPT, file based history.
 
 # Preview:
-![chatscr.png](chatscr.png)
+![chatscr2.png](chatscr2.png)
 ### Terminal
 Start the server
 
