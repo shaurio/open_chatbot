@@ -1,6 +1,6 @@
 # Minimal Chat UI
 
-## Powered By ChatGPT, file based history.
+Powered By ChatGPT, file based history.
 
 # Preview:
 ![chatscr2.png](chatscr2.png)
