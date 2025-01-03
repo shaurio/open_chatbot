@@ -4,6 +4,15 @@
 
 # Preview:
 
+### Terminal
+Start the server
+
+[terminal.mov](terminal.mov)
+
+### ChatUi
+Start chatting
+
+[chatui.mov](chatui.mov)
 
 # Installation
 
